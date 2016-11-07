@@ -1,0 +1,13 @@
+C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\bin\Debug\VkAPITutorial.exe.config
+C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\bin\Debug\VkAPITutorial.exe
+C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\bin\Debug\VkAPITutorial.pdb
+C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\bin\Debug\xNet.dll
+C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\obj\Debug\VkAPITutorial.csprojResolveAssemblyReference.cache
+C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\obj\Debug\VkAPITutorial.AuthorizationForm.resources
+C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\obj\Debug\VkAPITutorial.MainForm.resources
+C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\obj\Debug\VkAPITutorial.Properties.Resources.resources
+C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\obj\Debug\VkAPITutorial.csproj.GenerateResource.Cache
+C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\obj\Debug\VkAPITutorial.exe
+C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\obj\Debug\VkAPITutorial.pdb
