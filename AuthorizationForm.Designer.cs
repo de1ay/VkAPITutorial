@@ -39,6 +39,7 @@
             this.GetToken.Name = "GetToken";
             this.GetToken.Size = new System.Drawing.Size(432, 315);
             this.GetToken.TabIndex = 0;
+            this.GetToken.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.GetToken_DocumentCompleted_1);
             // 
             // AuthorizationForm
             // 

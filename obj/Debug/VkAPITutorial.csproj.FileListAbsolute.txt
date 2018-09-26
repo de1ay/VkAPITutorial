@@ -11,3 +11,17 @@ C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\obj\Debug\VkAP
 C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\obj\Debug\VkAPITutorial.csproj.GenerateResource.Cache
 C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\obj\Debug\VkAPITutorial.exe
 C:\Users\De1aY\Documents\GitHub\VkAPICsharpTutorial\VkAPITutorial\obj\Debug\VkAPITutorial.pdb
+C:\Users\nikit\Desktop\VkAPITutorial\bin\Debug\VkAPITutorial.exe.config
+C:\Users\nikit\Desktop\VkAPITutorial\bin\Debug\VkAPITutorial.exe
+C:\Users\nikit\Desktop\VkAPITutorial\bin\Debug\VkAPITutorial.pdb
+C:\Users\nikit\Desktop\VkAPITutorial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nikit\Desktop\VkAPITutorial\bin\Debug\xNet.dll
+C:\Users\nikit\Desktop\VkAPITutorial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nikit\Desktop\VkAPITutorial\obj\Debug\VkAPITutorial.csprojResolveAssemblyReference.cache
+C:\Users\nikit\Desktop\VkAPITutorial\obj\Debug\VkAPITutorial.AuthorizationForm.resources
+C:\Users\nikit\Desktop\VkAPITutorial\obj\Debug\VkAPITutorial.MainForm.resources
+C:\Users\nikit\Desktop\VkAPITutorial\obj\Debug\VkAPITutorial.Properties.Resources.resources
+C:\Users\nikit\Desktop\VkAPITutorial\obj\Debug\VkAPITutorial.csproj.GenerateResource.Cache
+C:\Users\nikit\Desktop\VkAPITutorial\obj\Debug\VkAPITutorial.csproj.CoreCompileInputs.cache
+C:\Users\nikit\Desktop\VkAPITutorial\obj\Debug\VkAPITutorial.exe
+C:\Users\nikit\Desktop\VkAPITutorial\obj\Debug\VkAPITutorial.pdb

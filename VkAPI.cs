@@ -6,7 +6,7 @@ namespace VkAPITutorial
 {
     class VkAPI
     {
-        private const string __APPID = "ApplicationId";  //ID приложения
+        public const string __APPID = "APPLICATION_ID";  //ID приложения
         private const string __VKAPIURL = "https://api.vk.com/method/";  //Ссылка для запросов
         private string _Token;  //Токен, использующийся при запросах
 
@@ -20,6 +20,7 @@ namespace VkAPITutorial
             HttpRequest GetInformation = new HttpRequest();
             GetInformation.AddUrlParam("user_ids", UserId);
             GetInformation.AddUrlParam("access_token", _Token);
+            GetInformation.AddUrlParam("version", "5.52");
             string Params = "";
             foreach (string i in Fields)
             {
@@ -38,6 +39,7 @@ namespace VkAPITutorial
             HttpRequest GetCityById = new HttpRequest();
             GetCityById.AddUrlParam("city_ids", CityId);
             GetCityById.AddUrlParam("access_token", _Token);
+            GetCityById.AddUrlParam("version", "5.52");
             string Result = GetCityById.Get(__VKAPIURL + "database.getCitiesById").ToString();
             Result = Result.Substring(13, Result.Length - 15);
             Dictionary<string, string> Dict = JsonConvert.DeserializeObject<Dictionary<string, string>>(Result);
@@ -49,6 +51,7 @@ namespace VkAPITutorial
             HttpRequest GetCountryById = new HttpRequest();
             GetCountryById.AddUrlParam("country_ids", CountryId);
             GetCountryById.AddUrlParam("access_token", _Token);
+            GetCountryById.AddUrlParam("version", "5.52");
             string Result = GetCountryById.Get(__VKAPIURL + "database.getCountriesById").ToString();
             Result = Result.Substring(13, Result.Length - 15);
             Dictionary<string, string> Dict = JsonConvert.DeserializeObject<Dictionary<string, string>>(Result);
